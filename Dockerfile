@@ -1,2 +1,3 @@
-FROM Python:3.52
+FROM python:3.5.2
 MAINTAINER pbucy@hotmail.com
+CMD ["/bin/bash"]
